@@ -12,7 +12,7 @@
 .swiftpm/
 migrate_working_dir/
 test/
-
+.gitignore	
 # IntelliJ related
 *.iml
 *.ipr
