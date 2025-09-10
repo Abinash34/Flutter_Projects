@@ -45,3 +45,8 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 flutter/
+first_app/.metadata
+first_app/ios/Podfile
+first_app/ios/Podfile.lock
+first_app/ios/Runner.xcodeproj/
+first_app/.gitignore
